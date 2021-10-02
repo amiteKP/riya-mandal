@@ -1,6 +1,7 @@
 # riya-mandal
 calculator for everyone
 want to make with c
+java program also added
 
 code ;
 #include <stdio.h>
